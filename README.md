@@ -4,6 +4,8 @@
 
 A custom-built 4WD RC car using an **ESP32**, an **L298N motor driver**, and a custom web-based controller. Drive wirelessly, control the speed, and explore DIY robotics!
 
+https://www.youtube.com/watch?v=Vr7wuUUsg0U
+
 ---
 
 ## ✨ Features
