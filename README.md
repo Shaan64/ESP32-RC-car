@@ -64,12 +64,12 @@ Use the directional buttons to move the car and the speed slider to adjust its s
 
 | Function      | ESP32 Pin |
 | ------------- | --------: |
-| Motor A — IN1 |   GPIO 27 |
-| Motor A — IN2 |   GPIO 26 |
-| Motor A — ENA |   GPIO 14 |
-| Motor B — IN3 |   GPIO 33 |
-| Motor B — IN4 |   GPIO 32 |
-| Motor B — ENB |   GPIO 25 |
+| Motor A — ENA |   GPIO 25 |
+| Motor A — IN1 |   GPIO 33 |
+| Motor A — IN2 |   GPIO 32 |
+| Motor B — ENB |   GPIO 14 |
+| Motor B — IN3 |   GPIO 27 |
+| Motor B — IN4 |   GPIO 26 |
 
 *Note: Each motor driver output controls one side of the car's drivetrain. Check your wiring and power connections before use.*
 
