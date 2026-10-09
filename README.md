@@ -73,16 +73,4 @@ Use the directional buttons to move the car and the speed slider to adjust its s
 
 *Note: Each motor driver output controls one side of the car's drivetrain. Check your wiring and power connections before use.*
 
-## 🔮 Future Plans
-
-* [ ] Obstacle detection using ultrasonic sensors
-* [ ] Battery voltage monitoring
-* [ ] Improved steering and control responsiveness
-* [ ] Autonomous driving modes
-* [ ] Additional sensors and robotics features
-
-## 🤝 Contributing
-
-Feel free to fork this project, experiment with the code, and build your own improvements!
-
 ---
